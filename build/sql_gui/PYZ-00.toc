@@ -1,0 +1,721 @@
+('C:\\Users\\mrinal '
+ 'seth\\Desktop\\Python\\Database\\build\\sql_gui\\PYZ-00.pyz',
+ [('os',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\os.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\selectors.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\signal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\struct.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\stat.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\pdb.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\socket.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\bz2.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\random.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\bisect.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\base64.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\ssl.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\tty.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\token.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\runpy.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\typing.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('backend',
+   'C:\\Users\\mrinal seth\\Desktop\\Python\\Database\\backend.py',
+   'PYMODULE'),
+  ('mysql.connector',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector.pooling',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\pooling.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\queue.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\uuid.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('mysql',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector.optionfiles',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\optionfiles.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\configparser.py',
+   'PYMODULE'),
+  ('mysql.connector.catch23',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\catch23.py',
+   'PYMODULE'),
+  ('mysql.connector.custom_types',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\custom_types.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\numbers.py',
+   'PYMODULE'),
+  ('mysql.connector.dbapi',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\dbapi.py',
+   'PYMODULE'),
+  ('mysql.connector.constants',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\constants.py',
+   'PYMODULE'),
+  ('mysql.connector.charsets',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\charsets.py',
+   'PYMODULE'),
+  ('mysql.connector.connection',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\connection.py',
+   'PYMODULE'),
+  ('mysql.connector.abstracts',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\abstracts.py',
+   'PYMODULE'),
+  ('mysql.connector.protocol',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\protocol.py',
+   'PYMODULE'),
+  ('mysql.connector.network',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\network.py',
+   'PYMODULE'),
+  ('mysql.connector.cursor',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\cursor.py',
+   'PYMODULE'),
+  ('mysql.connector.conversion',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\conversion.py',
+   'PYMODULE'),
+  ('mysql.connector.authentication',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\authentication.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\hmac.py',
+   'PYMODULE'),
+  ('mysql.connector.connection_cext',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\connection_cext.py',
+   'PYMODULE'),
+  ('mysql.connector.cursor_cext',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\cursor_cext.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector.version',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\version.py',
+   'PYMODULE'),
+  ('mysql.connector.errors',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\errors.py',
+   'PYMODULE'),
+  ('mysql.connector.locales',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\locales\\__init__.py',
+   'PYMODULE'),
+  ('mysql.connector.errorcode',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\errorcode.py',
+   'PYMODULE'),
+  ('mysql.connector.utils',
+   'c:\\users\\mrinal '
+   'seth\\desktop\\python\\venv\\lib\\site-packages\\mysql\\connector\\utils.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\mrinal '
+   'seth\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\tkinter\\constants.py',
+   'PYMODULE')])
